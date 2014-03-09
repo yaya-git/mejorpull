@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8" /> 
-<title>Mejorando la web</title>
+<title>Mejorando la web repo en GIT-HUB</title>
 
 <!-- libreria modernizer.js para hacer compatible con los navegadores -->
 	
